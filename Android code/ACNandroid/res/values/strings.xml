@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ACNandroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_receive_from_server">Send/Receive From Server</string>
+    <string name="laptop_ip_address">Laptop IP address</string>
+    <string name="server_ip_address">Server IP address</string>
+    <string name="send_receive_from_laptop">Send/Receive From Laptop</string>
+    <string name="enter_server_address">Enter Server Address</string>
+
+</resources>
